@@ -10,9 +10,10 @@ category:
 CLI-native AI agent that executes Git commands through natural language instructions
 - Specifically designed to help beginners learn Git and GitHub
 - Uses fine-tuned language models to understand and execute Git commands
-
-### Awards
 - Local inference speed of 100 tokens/second on MacBook Air M1 16GB
+
+[GitHub Repo](https://github.com/web-slate/gitai)
+[HF Repo](https://huggingface.co/collections/YashJain/gitai-66716f5414a2d8e2b6d93bd9)
 
 ### Tech Stack
 **AI Models:**
@@ -28,10 +29,7 @@ CLI-native AI agent that executes Git commands through natural language instruct
  - Command-line interface
  - Vector embeddings for command retrieval
 
-
 ### Why I made it
 - Lower the barrier to entry for Git and GitHub beginners
-- Enable natural language interaction with Git commands
-- Provide a locally-running solution for privacy and speed
-- Make Git command execution more intuitive
+- Learn about pyrepl agents
 - Help developers learn Git through practical assistance

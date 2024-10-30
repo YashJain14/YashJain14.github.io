@@ -8,12 +8,11 @@ category:
 ---
 
 A Full-Stack multilingual RAG chatbot for sex education for youth in Asia Pacific
-- Focused on providing comprehensive sex education for youth in Asia Pacific
 - Offers personalized, accessible sexual health information
 - Creates a safe space for learning about sexual health, consent, and well-being
-
-### Awards
 - Secured $10,000 NTU SIE grant
+
+[KamaGPT's website](https://www.kamagpt.in/)
 
 ### Tech Stack
 **AI/ML:** 
@@ -44,5 +43,3 @@ A Full-Stack multilingual RAG chatbot for sex education for youth in Asia Pacifi
 - Combat widespread misinformation about sexual health
 - Break down cultural barriers and stigma surrounding sex education
 - Provide a private, safe space for youth to learn and ask questions
-- Reduce risks associated with sexual activity through education
-- Promote mental and emotional well-being through informed decision-making
