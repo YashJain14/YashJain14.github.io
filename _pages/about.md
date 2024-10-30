@@ -25,4 +25,4 @@ Currently, I'm working on these projects:
 
 - **[SOPPU](https://github.com/YashJain14/SOPPU)**: Building a decentralized LLM inference system for scalable personalized AI by compressing LoRA adapters
 
-[GitHub](https://github.com/YashJain14) / [LinkedIn](https://www.linkedin.com/in/yashchopra1411/) / [Twitter](https://x.com/yashchopra1411) / [YouTube](www.youtube.com/@YashChopra14)
+[GitHub](https://github.com/YashJain14) / [LinkedIn](https://www.linkedin.com/in/yashchopra1411/) / [Twitter](https://x.com/yashchopra1411) / [YouTube](https://www.youtube.com/@YashChopra14)

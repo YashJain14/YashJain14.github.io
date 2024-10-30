@@ -8,13 +8,12 @@ category:
 giscus_comments: false
 ---
 
-StoryLine AI is a script-to-video generation platform that transforms written scripts into visually engaging videos with voiceovers
+StoryLine AI is a script-to-video generation tool that transforms scripts into visually engaging videos with voiceovers
 - Designed to help content creators and online educators create educational videos without needing extensive technical skills
 - Uses Stable Video Diffusion and Flux to ensure script consistency in generated videos
-- Includes a user interface built with Gradio and leverages AWS CloudFront for content delivery
-
-### Awards
 - Secured a $3,000 grant from NTU's Innovation Lab
+
+[StoryLine AI's Website](https://www.storylineai.in/)
 
 ### Tech Stack
 - **Backend:** PyTorch, Diffusers, NLTK
@@ -32,6 +31,5 @@ StoryLine AI is a script-to-video generation platform that transforms written sc
 
 ### Why I made it
 - To empower content creators and online educators by simplifying video production
-- Address the challenge of time-consuming video editing and technical barriers in content creation
 - Make educational video creation more accessible to people without technical expertise
 - Transform the content creation landscape by automating the video production process

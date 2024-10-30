@@ -8,13 +8,12 @@ category: work
 related_publications: false
 ---
 
-A framework enabling decentralized, personalized AI through efficient compression and serving of individual user adaptations
-- Combines client-side compression of personal PEFT adapters using advanced LoRA compression techniques
+Decentralized LLM inference for scalable personalized AI using compressed PEFT (LoRA) adapters
+- Combines client-side compression of personal PEFT adapters using Joint Compression
 - Utilizes scalable serving through LoRAX
-- Achieves personalization while maintaining model efficiency and scalability
-
-### Awards
 - Global Top 50 in Alibaba Global E-commerce Challenge
+
+[GitHub Repo](https://github.com/YashJain14/SOPPU)
 
 ### Tech Stack
 - **Core Technologies:** Large Language Models (LLMs), Transformers, PEFT
@@ -35,7 +34,6 @@ A framework enabling decentralized, personalized AI through efficient compressio
 - Proved better preservation of early layer information through layerwise analysis
 
 ## Why I made it
-- Solve the impracticality of maintaining separate model copies for each user at scale
 - Enable efficient personalization without compromising base model access
 - Create a scalable solution for handling multiple user adapters efficiently
 - Develop a framework that protects user privacy through local processing while maintaining performance

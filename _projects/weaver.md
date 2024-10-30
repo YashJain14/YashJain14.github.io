@@ -9,11 +9,9 @@ category:
 
 An AI-powered textile designing platform specifically built for textile manufacturers in India
 - Enables creation of printing, weaving, and knitting designs through AI assistance
-- Transforms traditional textile design processes into an intuitive digital workflow
-- Makes high-quality textile design accessible and efficient for industry professionals
-
-### Awards
 - Secured a $10,000 grant from NTUitive
+
+[Weaver's Website](https://weaverai.in/)
 
 ### Tech Stack
 - **Frontend:** NextJS, ReactJS, Typescript, Tailwind CSS
@@ -34,8 +32,6 @@ An AI-powered textile designing platform specifically built for textile manufact
 
 
 ### Why I made it
-- Bridge the technological gap in India's textile manufacturing industry
-- Make professional textile design tools more accessible and affordable
 - Reduce the time and resource investment needed for design creation
 - Empower manufacturers with AI-driven design capabilities
 - Transform traditional textile design processes through modern technology
