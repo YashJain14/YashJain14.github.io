@@ -1,0 +1,106 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Yash Jain
+    - name: Email
+      value: yash012@e.ntu.edu.sg
+    # - name: Website
+    #   value: yashjain14.github.io
+
+- title: Education
+  type: time_table
+  contents:
+    # - title: Bachelor of Engineering in Computer Science and Bachelors in Business
+    - institution: Nanyang Technological University, Singapore
+      year: 2022 - 2026
+      description:
+        - Bachelor of Engineering in Computer Science
+        - Bachelor of Business (specialization in Business Analytics)
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: AI Research Intern
+      institution: MMLab (S-Lab), Nanyang Technological University Singapore
+      year: May 2024 – Nov 2024
+      description:
+        - Worked on Large Multimodal Models and evaluation visual generation, focusing on Image, Video, and Motion
+        - Implemented Structured Generation Inference for LLaVa-NEXT using SGLang
+        - Maintained Awesome-Evaluation-of-Visual-Generation repository and led to 180+ stars on GitHub
+    
+    - title: AI Intern
+      institution: TUV SUD Singapore
+      year: May 2023 – Jul 2023
+      description:
+        - Led market research of AI certification in APAC region, delivering strategic insights for business expansion
+        - Developed proficiency in AI Governance and AI life cycle, and learned about AI regulations (including EU AI Act)
+        - Improved AI certification course curriculum and training materials, focusing on practical industry applications
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: SOPPU – Scalable One PEFT per User
+      description:
+        - Decentralized LLM inference for scalable personalized AI using compressed PEFT (LoRA) adapters
+        - Built with Hugging Face Transformers and PEFT library, and integrated LoRAX for dynamic, scalable serving of personalized adapters at scale
+        - Achieved multi-adapter joint compression using diagonalization, with 1.99x ratio and 49.7% memory savings
+
+    - title: Weaver
+      description:
+        - AI powered Textile designing tool for printing, weaving, and knitting designs for textile manufacturers in India
+        - Developed using NextJS, ReactJS, Typescript, Tailwind CSS, MongoDB, Clerk Auth, AWS S3, & Stripe Payments
+        - Secured a grant of $10,000 from NTUitive. Reduced manufacturers' design process from days to minutes
+
+    - title: StoryLine AI
+      description:
+        - Long-form video generation platform that creates script-consistent videos using Stable Video Diffusion and Flux
+        - Implemented backend with PyTorch, Diffusers, NLTK and Gradio for UI. Uses AWS CloudFront for CDN
+        - Secured a $3,000 grant from NTU's Innovation Lab. Achieved faster video generation through parallel processing
+
+    - title: GitAI
+      description:
+        - CLI-native AI agent for executing Git related tasks using natural language, tailored for beginners to Git and GitHub
+        - Finetuned Qwen2 and Llama 3.2 on Git documentation and Stack Overflow data using MLX LoRA implementation
+        - Implemented to run locally on CPUs, achieving speeds up to 100 tokens/second (MacBook Air M1 16GB)
+
+    - title: KamaGPT
+      description:
+        - Full-Stack multilingual RAG chatbot for sex education targeting youth in Asia Pacific region
+        - Built with Groq Inference, LangChain, ChromaDB, Sentence-Transformers and SQL Database
+        - Secured $10,000 NTU SIE grant and scaled to 22,000 users with 100,000+ answered queries
+
+- title: Leadership
+  type: time_table
+  contents:
+    - title: Chairperson
+      institution: Open Source Society
+      description:
+        - Hosted workshops, managed external speakers, and increased students' workshop participation rate
+
+    - title: President (Student Lead)
+      institution: Google Developer Student Club
+      description:
+        - Led a team of 150 members and organized workshops, and hackathons, boosting student engagement
+
+- title: Awards & Achievements
+  type: time_table
+  contents:
+    - year: 2024
+      items: 
+        - Global Top 50 (Semi-finalist) - Alibaba Global E-commence Challenge
+        - NTUitive MDT Grant - Awarded Multidisciplinary Team Grant of $10,000 SGD
+        - Top 10 Teams (Finalist) - Kumar Sustainability and Innovation Challenge
+    - year: 2023
+      items:
+        - NTU SIE Program - Awarded Kwek Leng Joo Colab4Good Grant of $10,000
+        - NTU SEP Program - Awarded SEP Grant of $3,000 SGD by NTU's I-Lab
+        - 1st Runner Up - YouthxHack Total Defence Hackathon
+        - 500k+ Views on YouTube - Videos on Tech, vlogs, and higher education in Singapore
+
+- title: Skills
+  type: list
+  contents:
+    - Languages - Python, C/C++, Java, R, JavaScript, TypeScript, SQL, NoSQL, HTML/CSS
+    - Frameworks/Libraries - React, Node.js, NextJS, Flask, ShadCn UI, Tailwind CSS, Bootstrap, Hugging Face, Transformers, Diffusers, LangChain, PyTorch, TensorFlow, MLX, FastAPI, Pandas, NumPy, Scikit-learn, Matplotlib
+    - Technologies - AWS, GCP, Git/GitHub, Docker, MongoDB, MySQL, PostgreSQL, Unity, MS Office, G-Suite, Linux
