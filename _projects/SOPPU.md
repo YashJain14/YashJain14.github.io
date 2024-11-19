@@ -11,6 +11,7 @@ related_publications: false
 Decentralized LLM inference for scalable personalized AI using compressed PEFT (LoRA) adapters
 - Combines client-side compression of personal PEFT adapters using Joint Compression
 - Utilizes scalable serving through LoRAX
+- Accepted to DAI 2024 (International Conference on Distributed Artificial Intelligence)
 - Global Top 50 in Alibaba Global E-commerce Challenge
 
 [GitHub Repo](https://github.com/YashJain14/SOPPU)
