@@ -23,6 +23,6 @@ Currently, I'm working on these projects:
 
 - **[Weaver](https://weaverai.in)**: An AI-powered textile design platform that's revolutionizing technical textile manufacturing processes in India. Secured $10,000 NTUitive grant.
 
-- **[SOPPU](https://github.com/YashJain14/SOPPU)**: Building a decentralized LLM inference system for scalable personalized AI by compressing LoRA adapters
+- **[SOPPU](https://github.com/YashJain14/SOPPU)**: Building a decentralized LLM inference system for scalable personalized AI by compressing LoRA adapters. (Accepted to DAI 2024)
 
 [GitHub](https://github.com/YashJain14) / [LinkedIn](https://www.linkedin.com/in/yashchopra1411/) / [Twitter](https://x.com/yashchopra1411) / [YouTube](https://www.youtube.com/@YashChopra14)
