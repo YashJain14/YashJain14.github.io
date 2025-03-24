@@ -19,10 +19,16 @@ social: false # includes social icons at the bottom of the page
 
 I am an undergraduate student at Nanyang Technological University, pursuing a double bachelor's in Computer Science and Business. 
 
-Currently, I'm working on these projects:
+**Currently, I'm working on these projects:**
 
-- **[Weaver](https://weaverai.in)**: An AI-powered textile design platform that's revolutionizing technical textile manufacturing processes in India. Secured $10,000 NTUitive grant.
+- **[Weaver AI](https://weaverai.in/)**: Generative AI for Fashion and Textiles (Backed by [NTUitive](https://www.ntuitive.sg/))
+- **[YouTube Channel](https://www.youtube.com/YashChopra1411)**: (600k+ views) Tech, vlogs, and higher education in Singapore. 
 
-- **[SOPPU](https://github.com/YashJain14/SOPPU)**: Building a decentralized LLM inference system for scalable personalized AI by compressing LoRA adapters. (Accepted to DAI 2024)
+**Previous Project**
+- **[OpenContext](https://github.com/YashJain14/OpenContext)**: Open deep research that searches the web and local files to generate reports and PowerPoint presentations.
+- **[FactX](https://github.com/YashJain14/factx)**: CLIP encoder for Tweets - converts Image and Text Pair in tweets to vector embeddings
+- **[SOPPU](https://github.com/YashJain14/SOPPU)**: Scalable One PEFT per User. (Paper accepted to [DAI 2024](http://www.adai.ai/dai/2024/index.html) Conference)
+- **[KamaGPT](https://www.kamagpt.in/)**: Multilingual Chatbot for sex education (22k users, 88k visits in 3 months) (Backed by NTU)
+- **[StoryLine AI](https://www.storylineai.in/)**: Script-to-video Generator (Consistent audio narration with video) (Backed by NTU)
 
 [GitHub](https://github.com/YashJain14) / [LinkedIn](https://www.linkedin.com/in/yashchopra1411/) / [Twitter](https://x.com/yashchopra1411) / [YouTube](https://www.youtube.com/@YashChopra14)
